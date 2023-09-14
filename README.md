@@ -1,4 +1,4 @@
-Histopathologic-Cancer-Detection
+#Histopathologic-Cancer-Detection
 The aim is to create an algorithm to identify metastatic cancer in small image patches taken from larger digital pathology scans. We detect cancer by identifying metastatic tissue in histopathologic scans of lymph nodes using Deep Learning.
 
 What is Histopathology?
